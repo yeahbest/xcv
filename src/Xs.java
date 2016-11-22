@@ -7,7 +7,8 @@ public class Xs {
 
         System.out.printf("%s","some string to display dude");
         //some new project to check out
-        System.out.print("dsdsdsd\n");
+
+        //sddsdssdsd
 
     }
 }
